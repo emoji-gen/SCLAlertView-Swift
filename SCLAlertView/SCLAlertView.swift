@@ -1097,7 +1097,7 @@ class SCLAlertViewStyleKit : NSObject {
     
     class func drawWarning() {
         // Color Declarations
-        let greyColor = UIColor(red: 0.236, green: 0.236, blue: 0.236, alpha: 1.000)
+        let greyColor = UIColor(red:1.0, green:1.0, blue:1.0, alpha:1.0)
         
         // Warning Group
         // Warning Circle Drawing
